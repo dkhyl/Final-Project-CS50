@@ -1,0 +1,15 @@
+# Database files
+*.sqlite3
+*.db
+*.sql
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
