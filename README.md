@@ -21,4 +21,4 @@ A web application built with Flask that shortens long URLs, similar to bit.ly.
 4. Visit `http://localhost:5000`
 
 ## About
-This project was completed as the final project for Harvard's CS50 course.
+This project was completed as the final project for Harvard CS50x course.
